@@ -5,4 +5,4 @@ This  a project follows the steps to the development of a HUMS in C++ and Python
 
 The C++ dependencies are PX4 Autopilot as well as MAVSDK C++.
 
-The Python version works with PX4 Autopilot, MAVSDK, Pymavlink, InfluxDB 2.0 as well as Grafana
+The Python version works in conjunction with PX4 Autopilot, MAVSDK, Pymavlink, InfluxDB 2.0 as well as Grafana
